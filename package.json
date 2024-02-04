@@ -1,0 +1,15 @@
+{
+  "name": "js-linkedlist-exercise",
+  "version": "1.0.0",
+  "description": "LinkedList exercise",
+  "main": "LinkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LinkedList"
+  ],
+  "author": "KvJellyBean",
+  "type": "module",
+  "license": "ISC"
+}
